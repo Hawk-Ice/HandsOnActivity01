@@ -96,7 +96,7 @@ namespace OrganizationProfile
             StudentInformationClass.SetStudentNo = (int) StudentNumber(txtStudentNo.Text);
             StudentInformationClass.SetProgram = cbPrograms.Text;
             StudentInformationClass.SetGender = cbGender.Text;
-            StudentInformationClass.SetContactNo = (int) ContactNo(txtContactNo.Text);
+            StudentInformationClass.SetContactNo = ContactNo(txtContactNo.Text);
             StudentInformationClass.SetAge = (int) Age(txtAge.Text);
             StudentInformationClass.SetBirthday = datePickerBirthday.Value.ToString("yyyy-MM-dd");
             frmConfirmation frm = new frmConfirmation();
