@@ -138,7 +138,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(586, 115);
+            this.label8.Location = new System.Drawing.Point(580, 118);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(25, 13);
             this.label8.TabIndex = 10;
@@ -163,10 +163,10 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.Location = new System.Drawing.Point(34, 24);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(127, 25);
+            this.label10.Size = new System.Drawing.Size(139, 25);
             this.label10.TabIndex = 14;
             this.label10.Text = "Registration";
             // 
@@ -175,7 +175,7 @@
             this.cbPrograms.FormattingEnabled = true;
             this.cbPrograms.Location = new System.Drawing.Point(406, 62);
             this.cbPrograms.Name = "cbPrograms";
-            this.cbPrograms.Size = new System.Drawing.Size(333, 21);
+            this.cbPrograms.Size = new System.Drawing.Size(315, 21);
             this.cbPrograms.TabIndex = 15;
             // 
             // txtFirstName
@@ -187,7 +187,7 @@
             // 
             // txtMiddleInitial
             // 
-            this.txtMiddleInitial.Location = new System.Drawing.Point(627, 115);
+            this.txtMiddleInitial.Location = new System.Drawing.Point(621, 115);
             this.txtMiddleInitial.Name = "txtMiddleInitial";
             this.txtMiddleInitial.Size = new System.Drawing.Size(100, 20);
             this.txtMiddleInitial.TabIndex = 17;
@@ -202,7 +202,7 @@
             // 
             // txtContactNo
             // 
-            this.txtContactNo.Location = new System.Drawing.Point(406, 218);
+            this.txtContactNo.Location = new System.Drawing.Point(406, 212);
             this.txtContactNo.Name = "txtContactNo";
             this.txtContactNo.Size = new System.Drawing.Size(100, 20);
             this.txtContactNo.TabIndex = 19;
@@ -221,7 +221,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 353);
+            this.ClientSize = new System.Drawing.Size(796, 329);
             this.Controls.Add(this.btnRegister);
             this.Controls.Add(this.txtContactNo);
             this.Controls.Add(this.cbGender);

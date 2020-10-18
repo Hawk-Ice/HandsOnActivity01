@@ -48,7 +48,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(23, 47);
+            this.label1.Location = new System.Drawing.Point(93, 50);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(67, 13);
             this.label1.TabIndex = 0;
@@ -57,7 +57,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(23, 85);
+            this.label2.Location = new System.Drawing.Point(93, 88);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(41, 13);
             this.label2.TabIndex = 1;
@@ -66,7 +66,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(23, 118);
+            this.label3.Location = new System.Drawing.Point(93, 121);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(52, 13);
             this.label3.TabIndex = 2;
@@ -75,7 +75,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(23, 155);
+            this.label4.Location = new System.Drawing.Point(93, 158);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(32, 13);
             this.label4.TabIndex = 3;
@@ -84,7 +84,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(23, 196);
+            this.label5.Location = new System.Drawing.Point(93, 199);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(48, 13);
             this.label5.TabIndex = 4;
@@ -93,7 +93,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(23, 235);
+            this.label6.Location = new System.Drawing.Point(93, 238);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(48, 13);
             this.label6.TabIndex = 5;
@@ -102,7 +102,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(23, 278);
+            this.label7.Location = new System.Drawing.Point(93, 281);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(64, 13);
             this.label7.TabIndex = 6;
@@ -111,7 +111,7 @@
             // lblStudentNo
             // 
             this.lblStudentNo.AutoSize = true;
-            this.lblStudentNo.Location = new System.Drawing.Point(122, 47);
+            this.lblStudentNo.Location = new System.Drawing.Point(192, 50);
             this.lblStudentNo.Name = "lblStudentNo";
             this.lblStudentNo.Size = new System.Drawing.Size(35, 13);
             this.lblStudentNo.TabIndex = 7;
@@ -120,7 +120,7 @@
             // lblName
             // 
             this.lblName.AutoSize = true;
-            this.lblName.Location = new System.Drawing.Point(122, 85);
+            this.lblName.Location = new System.Drawing.Point(192, 88);
             this.lblName.Name = "lblName";
             this.lblName.Size = new System.Drawing.Size(35, 13);
             this.lblName.TabIndex = 8;
@@ -129,7 +129,7 @@
             // lblProgram
             // 
             this.lblProgram.AutoSize = true;
-            this.lblProgram.Location = new System.Drawing.Point(122, 118);
+            this.lblProgram.Location = new System.Drawing.Point(192, 121);
             this.lblProgram.Name = "lblProgram";
             this.lblProgram.Size = new System.Drawing.Size(41, 13);
             this.lblProgram.TabIndex = 9;
@@ -138,7 +138,7 @@
             // lblAge
             // 
             this.lblAge.AutoSize = true;
-            this.lblAge.Location = new System.Drawing.Point(122, 155);
+            this.lblAge.Location = new System.Drawing.Point(192, 158);
             this.lblAge.Name = "lblAge";
             this.lblAge.Size = new System.Drawing.Size(41, 13);
             this.lblAge.TabIndex = 10;
@@ -147,7 +147,7 @@
             // lblBirthday
             // 
             this.lblBirthday.AutoSize = true;
-            this.lblBirthday.Location = new System.Drawing.Point(122, 196);
+            this.lblBirthday.Location = new System.Drawing.Point(192, 199);
             this.lblBirthday.Name = "lblBirthday";
             this.lblBirthday.Size = new System.Drawing.Size(41, 13);
             this.lblBirthday.TabIndex = 11;
@@ -156,7 +156,7 @@
             // lblGender
             // 
             this.lblGender.AutoSize = true;
-            this.lblGender.Location = new System.Drawing.Point(122, 235);
+            this.lblGender.Location = new System.Drawing.Point(192, 238);
             this.lblGender.Name = "lblGender";
             this.lblGender.Size = new System.Drawing.Size(41, 13);
             this.lblGender.TabIndex = 12;
@@ -165,16 +165,15 @@
             // lblContactNo
             // 
             this.lblContactNo.AutoSize = true;
-            this.lblContactNo.Location = new System.Drawing.Point(122, 278);
+            this.lblContactNo.Location = new System.Drawing.Point(192, 281);
             this.lblContactNo.Name = "lblContactNo";
             this.lblContactNo.Size = new System.Drawing.Size(41, 13);
             this.lblContactNo.TabIndex = 13;
             this.lblContactNo.Text = "label14";
-          
             // 
             // btnSubmit
             // 
-            this.btnSubmit.Location = new System.Drawing.Point(125, 360);
+            this.btnSubmit.Location = new System.Drawing.Point(130, 352);
             this.btnSubmit.Name = "btnSubmit";
             this.btnSubmit.Size = new System.Drawing.Size(75, 23);
             this.btnSubmit.TabIndex = 14;
@@ -186,7 +185,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(310, 449);
+            this.ClientSize = new System.Drawing.Size(351, 415);
             this.Controls.Add(this.btnSubmit);
             this.Controls.Add(this.lblContactNo);
             this.Controls.Add(this.lblGender);
