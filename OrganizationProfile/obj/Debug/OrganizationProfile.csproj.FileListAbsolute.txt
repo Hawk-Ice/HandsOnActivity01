@@ -1,0 +1,11 @@
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csprojAssemblyReference.cache
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+D:\ProgramData\Projects Visual Studio\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
